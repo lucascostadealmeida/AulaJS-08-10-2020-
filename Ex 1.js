@@ -4,7 +4,7 @@ ou Reprovado por Média. A média para aprovação é 70 e o limite de faltas é
 total de aulas. O número de aulas ministradas no semestre foi de 80. A reprovação por
 falta sobrepõe a reprovação por Média. */
 
-//colocando como constante a média e o máximo de faltas
+//colocando como constante a média e o máximo de faltas teste
 const media = 70;
 const max_falta = 20;
 
